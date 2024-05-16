@@ -44,8 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2024-05-16 212303](https://github.com/Sarishatheiveegan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/01a733da-9645-47c3-881c-1fc408db69f9)
 
+![Screenshot 2024-05-17 001246](https://github.com/Sarishatheiveegan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/cc1b4ada-62aa-4425-8d47-7f312c5686e6)
+![Screenshot 2024-05-17 001303](https://github.com/Sarishatheiveegan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/93b0342e-3a38-4a90-b417-007cfdc396ed)
+![Screenshot 2024-05-16 212303](https://github.com/Sarishatheiveegan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/01a733da-9645-47c3-881c-1fc408db69f9)
 ### Name:MARINO SARISHA T
 ### Register Number:212223240064
 
